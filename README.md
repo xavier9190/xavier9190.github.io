@@ -32,15 +32,6 @@ Desenvolvimento de uma solução de ponta a ponta para uma fábrica de baterias.
 - **Destaque:** Implementação de pipeline de dados usando arquitetura Medallion e criação de dashboard operacional para monitoramento de produção.
 - **Skills:** SQL, GCP, Star Schema.
 
-### 📈 [Dashboard Financeiro de Marcenaria](link-para-o-projeto)
-Projeto pessoal que une minha paixão por marcenaria artesanal com análise de custos.
-- **Destaque:** Controle de insumos e tempo de produção para esculturas de vida marinha.
-
----
-
-## 🎨 Para além do código...
-Quando não estou refinando queries SQL, estou na oficina esculpindo arraias manta e outras formas marinhas em madeira. Acredito que a precisão da marcenaria reflete a minha busca por limpeza e estrutura no desenvolvimento de software.
-
 ---
 
 ## 🌐 Conecte-se comigo
